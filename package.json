@@ -1,0 +1,10 @@
+{
+	"name": "justshipthespecs",
+	"version": "0.1.0",
+	"scripts": {
+		"build": "dream"
+	},
+	"dependencies": {
+		"@vercel/dream": "^0.2.1"
+	}
+}
